@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Project_Status-Complete-green.svg) ![](https://img.shields.io/badge/Built_with-JavaScript-F0DB4F.svg)
 
-> This is a basic stopwatch app.
+> This is a basic stopwatch app.  
 > You can start, stop, continue and reset the timer.
 
 <!-- > Live demo on [_GitHub Pages_](https://pages.github.com/). -->
