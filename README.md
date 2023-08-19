@@ -7,7 +7,8 @@
 
 <!-- > Live demo on [_GitHub Pages_](https://pages.github.com/). -->
 
-![Example screenshot](./img/screenshot-small.PNG)
+![Example screenshot](./img/screenshot-small.png)
+
 
 ## Table of Contents
 
